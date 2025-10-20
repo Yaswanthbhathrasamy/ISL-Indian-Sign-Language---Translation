@@ -1,4 +1,4 @@
-**Indian Sign Language (ISL) Translation Using KNN**
+_**Indian Sign Language (ISL) Translation Using KNN**_
 _Project Overview_
 
 This project aims to translate Indian Sign Language (ISL) gestures into text using the K-Nearest Neighbors (KNN) algorithm. It allows hearing individuals to understand sign language gestures and helps in bridging the communication gap between the deaf and hearing communities.
@@ -10,7 +10,8 @@ _Features_
 - Uses KNN algorithm for classification.
 - Easy to expand for more gestures.
 
-Methodology
+
+_Methodology_
 
 1 Data Preprocessing
 
